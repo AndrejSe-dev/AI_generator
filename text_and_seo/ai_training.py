@@ -11,7 +11,7 @@ def main():
     tokenizer.pad_token = tokenizer.eos_token
 
     # Načítanie dátového súboru
-    dataset = load_dataset("text", data_files={"train": "C://Users//adose//Documents//PROGRAMOVANIE_C_C++_PYTHON_HTML_CSS//Python_IN_VS//AI_Text_generator//your_dataset.txt"})
+    dataset = load_dataset("text", data_files={"train": "your_dataset.txt"})
 
     # Tokenizácia dát
     def tokenize_function(examples):
