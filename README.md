@@ -29,7 +29,7 @@ Vitajte v beta verzii AI generátora článku s názvom How to Start a Small Bus
 
 -------
 
-Ak toto uspešne zvládnete, je potrebné si stiahnuť všetky súbory do rovnakého priečinku až na jeden **fine_tuned_distilgpt2**
+Ak toto uspešne zvládnete, je potrebné si stiahnuť všetky súbory do rovnakého priečinku na vyžiadanie pošlem celý súbor s trenovanou AI pre generovanie článku na tému How to Start a Small Business at Home? 
 
 Už si len užívajte tvorbu vlastných textov s AI GPT2 beta verzia
 -----
